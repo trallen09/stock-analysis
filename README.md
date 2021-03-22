@@ -15,6 +15,8 @@ The Excel file that shows the analysis is located here: [GitHub Pages]( https://
 If only looking at 2017 as an indicator moving forward, a lot of money could have been lost in 2018. In 2017, "DQ" almost had a 200% return. Overall, 2018 was a bad year for all but two of the selected stocks ("ENPH" and "RUN"). Both stocks seemed to withstand the downturn in 2018 while "RUN" increased performance significantly.
 
 The VBA code was visibly different in the execution from the original to the refactored. I could watch the fields populate in the original code as opposed to the refactored.
+While following the lesson, section 3d said to "increase the tickerIndex by 1". I entered 'tickerIndex = tickerIndex + 1' not really sure what this was going to do. It makes no sense actually. If you reorder the original 2018 worksheet, for example, the entire macro breaks. The section for 2a doesn't really make sense either. I can remove that entire code and the macro will run the same. 
+
 
 - What are the advantages or disadvantages of refactoring code?
   - The advantage is faster execution times. 
