@@ -13,11 +13,11 @@ The Excel file that shows the analysis is located here: [GitHub Pages]( https://
 ### Analysis of Outcomes Based on 2017
 Using parent category, outcomes, and date created, I was able to determine the best launch date specific to theater campaigns. Filtering on the parent category "theater", I summarized a pivot table based on launch date for rows and outcomes for both columns and count of outcomes.  
 
-![alt text](https://github.com/trallen09/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![alt text](https://github.com/trallen09/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ### Analysis of Outcomes Based on 2018
 The use of COUNTIFS allowed me to set the criteria for plays, goal limits, and outcomes. I had to create different limits to capture outcomes based on goals that fell between 1000 to 50000 within the COUNTIFS function. All the data was filtered for plays.
 
-![alt text](https://github.com/trallen09/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![alt text](https://github.com/trallen09/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Results
 
